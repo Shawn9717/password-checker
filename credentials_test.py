@@ -8,12 +8,12 @@ class TestCredentials(unittest.TestCase):
     unittest.TestCase: Testcase class that helps in creating tests
     """
     def setUp(self):
-        self.new_credentials = Credential("james@email.com", "instagram", 54728902)
+        self.new_credentials = Credential("sospeter@gmail.com", "instagram", 971771)
 
     def test_init(self):
-        self.assertEqual(self.new_credentials.email, "james@email.com")
+        self.assertEqual(self.new_credentials.email, "sospeter@gmail.com")
         self.assertEqual(self.new_credentials.platform, "instagram")
-        self.assertEqual(self.new_credentials.password, 54728902)
+        self.assertEqual(self.new_credentials.password, 971771)
 
 if __name__ == "__main__":
     unittest.main()
