@@ -17,6 +17,7 @@ To fix a bug or enhance an existing module, follow these steps:
 - Make the appropriate changes in the files
 - Commit your changes (git commit -am 'Improve feature')
 - Push to the branch (git push origin improve-feature)
+- Create a Pull Request
 
 ## Known Bugs
 
