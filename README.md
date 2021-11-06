@@ -1,4 +1,6 @@
 # Password Locker
+## Developers
+  This aplication is created by **Shawn Njoga** and sponserd by **Moringa School**
 ## Introduction
  This is a python console based application that creates a user account.The user can create,view and delete an acount.
 ## Language(s) used
@@ -13,7 +15,6 @@ To fix a bug or enhance an existing module, follow these steps:
 - Fork the repo
 - Create a new branch (git checkout -b improve-feature)
 - Make the appropriate changes in the files
-- Add changes to reflect the changes made
 - Commit your changes (git commit -am 'Improve feature')
 - Push to the branch (git push origin improve-feature)
 - Create a Pull Request
@@ -27,5 +28,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 You can use this application for personal use only.
 
 *MIT*
-Copyright (c) 2021 **Patrick Mugambi**
+Copyright (c) 2021 **shawn Njoga**
 
