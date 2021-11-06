@@ -13,7 +13,6 @@ class Credential:
         """
 
         Credential.credential_list.append(self)
-
     def delete_credential(self):
         """
         Function to remove user details
