@@ -28,5 +28,5 @@ If you'd like to request a new function, feel free to do so by opening an issue 
 You can use this application for personal use only.
 
 *MIT*
-Copyright (c) 2021 **shawn Njoga O**
+Copyright (c) 2021 **shawn Njoga**
 
