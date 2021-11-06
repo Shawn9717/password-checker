@@ -13,7 +13,7 @@ class TestUser(unittest.TestCase):
         """
         Set up method to run before each test case.
         """
-        self.user_list = User("shawn","njoga","0722348613","shawnnjoga@gmail.com","password")
+        self.user_list = User("shawn","Njoga","0722348613","Shawnnjoga@gmail.com","password")
 
 
     def test_init(self):
@@ -21,8 +21,8 @@ class TestUser(unittest.TestCase):
         Test to see if the object is properly initialized
         """
 
-        self.assertEqual(self.user_list.first_name,"shawn")
-        self.assertEqual(self.user_list.last_name,"njoga")
+        self.assertEqual(self.user_list.first_name,"Shawn")
+        self.assertEqual(self.user_list.last_name,"Njoga")
         self.assertEqual(self.user_list.phone_number,"0722348613")
         self.assertEqual(self.user_list.email,"shawnnjoga@gmail.com")
         self.assertEqual(self.user_list.password,"password")
